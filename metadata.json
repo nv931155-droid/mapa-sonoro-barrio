@@ -1,0 +1,6 @@
+{
+  "name": "Mapa Sonoro del Barrio",
+  "description": "Aplicación web del club de ciencias para gestionar observaciones acústicas en Supabase y visualizar sus coordenadas GPS en Google Maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
